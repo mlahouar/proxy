@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T22:37:04.745Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="x3U3JUmTYVbB37muMF7K" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T22:40:20.127Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="5vRYjPiNvmOLMD0Ilfqb" version="21.2.3" type="github">
   <diagram id="jrXY4hO8n29qiqvIHeQG" name="Page-1">
     <mxGraphModel dx="2626" dy="1824" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,42 +64,38 @@
         <mxCell id="N_9ljJacKE9F2aMwcfvr-17" value="&lt;b&gt;&amp;nbsp; Team membre &lt;u&gt;N&lt;/u&gt; Space&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=none;fontColor=#D86613;strokeColor=#D86613;dashed=1;fillStyle=dashed;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1000" y="-260" width="800" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="N_9ljJacKE9F2aMwcfvr-20" value="" style="endArrow=diamond;html=1;rounded=0;endFill=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#248814;strokeWidth=1;verticalAlign=top;spacingTop=-8;" edge="1" parent="1" source="5G6M97Ru5O6IGqaMy1Rf-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-736" y="-650" as="sourcePoint" />
-            <mxPoint x="-755" y="-830" as="targetPoint" />
+        <mxCell id="N_9ljJacKE9F2aMwcfvr-20" value="FIP" style="endArrow=diamond;html=1;rounded=0;endFill=1;strokeColor=#248814;strokeWidth=1;verticalAlign=top;spacingTop=-8;" edge="1" parent="1">
+          <mxGeometry x="0.9048" y="-10" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-650" y="-630" as="sourcePoint" />
+            <mxPoint x="-650" y="-840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-755" y="-630" />
+              <mxPoint x="-650" y="-800" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_9ljJacKE9F2aMwcfvr-22" value="&lt;div style=&quot;text-align: center;&quot;&gt;DGFIP Publication&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Network&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=bottom;resizable=0;points=[];labelPosition=left;verticalLabelPosition=top;spacing=2;labelBackgroundColor=none;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-20">
+        <mxCell id="N_9ljJacKE9F2aMwcfvr-22" value="&lt;div style=&quot;text-align: center; font-size: 10px;&quot;&gt;DGFIP Publication&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 10px;&quot;&gt;Network&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=bottom;resizable=0;points=[];labelPosition=left;verticalLabelPosition=top;spacing=2;labelBackgroundColor=none;fontSize=10;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-20">
           <mxGeometry x="0.8691" relative="1" as="geometry">
-            <mxPoint x="45" y="-18" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="N_9ljJacKE9F2aMwcfvr-23" value="FIP" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-20">
-          <mxGeometry x="0.2727" y="-1" relative="1" as="geometry">
-            <mxPoint y="40" as="offset" />
+            <mxPoint x="10" y="-14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N_9ljJacKE9F2aMwcfvr-24" value="" style="endArrow=diamond;html=1;rounded=0;endFill=1;strokeColor=#147EBA;strokeWidth=1;verticalAlign=top;spacingTop=-8;fontColor=#147EBA;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-520" y="-680" as="sourcePoint" />
-            <mxPoint x="-320" y="-830" as="targetPoint" />
+            <mxPoint x="-540" y="-680" as="sourcePoint" />
+            <mxPoint x="-540" y="-840" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-320" y="-680" />
+              <mxPoint x="-540" y="-810" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_9ljJacKE9F2aMwcfvr-25" value="&lt;div style=&quot;text-align: center;&quot;&gt;DGFIP Administration&lt;/div&gt;&lt;div style=&quot;text-align: center;&quot;&gt;Network&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=bottom;resizable=0;points=[];labelPosition=left;verticalLabelPosition=top;spacing=2;labelBackgroundColor=none;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-24">
+        <mxCell id="N_9ljJacKE9F2aMwcfvr-25" value="&lt;div style=&quot;text-align: center; font-size: 10px;&quot;&gt;DGFIP Administration&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 10px;&quot;&gt;Network&lt;/div&gt;" style="edgeLabel;html=1;align=right;verticalAlign=bottom;resizable=0;points=[];labelPosition=left;verticalLabelPosition=top;spacing=2;labelBackgroundColor=none;fontSize=10;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-24">
           <mxGeometry x="0.8691" relative="1" as="geometry">
-            <mxPoint x="45" y="-29" as="offset" />
+            <mxPoint x="80" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N_9ljJacKE9F2aMwcfvr-26" value="FIP" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-24">
-          <mxGeometry x="0.2727" y="-1" relative="1" as="geometry">
-            <mxPoint y="23" as="offset" />
+        <mxCell id="N_9ljJacKE9F2aMwcfvr-30" value="FIP" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N_9ljJacKE9F2aMwcfvr-24">
+          <mxGeometry x="0.8" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
