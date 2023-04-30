@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2023-04-30T21:49:06.719Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="5L_k6M1ph7B4_sEvHyNz" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-30T21:49:52.630Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="m2xTm7DUfVdZ4kvK7PGv" version="21.2.3" type="github">
   <diagram id="jrXY4hO8n29qiqvIHeQG" name="Page-1">
     <mxGraphModel dx="2626" dy="1424" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xgOQFWb6kl7ygXgDytyt-4" value="&amp;nbsp;&amp;nbsp;&lt;b&gt;NUBO11&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=left;" vertex="1" parent="1">
+        <mxCell id="xgOQFWb6kl7ygXgDytyt-4" value="&amp;nbsp;&amp;nbsp;&lt;b&gt;NUBO11&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;verticalAlign=top;align=left;" parent="1" vertex="1">
           <mxGeometry x="-1020" y="-790" width="840" height="760" as="geometry" />
         </mxCell>
-        <mxCell id="xgOQFWb6kl7ygXgDytyt-6" value="&lt;b&gt;&amp;nbsp; A Team member Space&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=none;fontColor=#D86613;strokeColor=#D86613;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xgOQFWb6kl7ygXgDytyt-6" value="&lt;b&gt;&amp;nbsp; A Team member Space&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=none;fontColor=#D86613;strokeColor=#D86613;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="-560" width="800" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="xgOQFWb6kl7ygXgDytyt-5" value="&lt;b&gt;&amp;nbsp; Shared Space&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=none;strokeColor=#147EBA;fontColor=#147EBA;dashed=1;" vertex="1" parent="1">
+        <mxCell id="xgOQFWb6kl7ygXgDytyt-5" value="&lt;b&gt;&amp;nbsp; Shared Space&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;align=center;fillColor=none;strokeColor=#147EBA;fontColor=#147EBA;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="-1000" y="-759" width="800" height="179" as="geometry" />
         </mxCell>
         <mxCell id="5G6M97Ru5O6IGqaMy1Rf-24" value="Publication shared network" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;strokeWidth=6;" parent="1" vertex="1">
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="5G6M97Ru5O6IGqaMy1Rf-42" value="Databases" style="fillColor=none;strokeColor=#5A6C86;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#5A6C86;" parent="1" vertex="1">
           <mxGeometry x="-950" y="-260" width="700" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="N_9ljJacKE9F2aMwcfvr-1" value="Administration shared &amp;nbsp;network" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#147EBA;fillColor=#E6F2F8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="-527" width="320" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
